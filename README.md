@@ -1,16 +1,13 @@
-# Introduction to GitHub
+# Python自学笔记
+## 项目介绍
+本仓库用来存放每日Python练习代码，学习方向：Python爬虫 + 逆向。
+跟随B站网课系统自学，持续更新练习案例与项目源码。
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## 目录规划
+- 01-basic-syntax：基础语法练习题
+- 02-loop-condition：分支与循环代码
+- 03-string-operation：字符串实操练习
+- 04-crawler-project：后续爬虫实战项目
 
-Hey YZC2007110!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/YZC2007110/-/issues/1)
-
----
-
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
+## 学习进度
+持续每日打卡，保持代码提交记录。
